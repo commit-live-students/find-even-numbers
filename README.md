@@ -3,4 +3,4 @@
 **Notes:**
 * Use For loop to iterate through 1 to 100.
 * Check if variable is even or odd.
-* Print event number.
+* Print even number.
